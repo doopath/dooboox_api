@@ -3,75 +3,195 @@
     "name": "themes",
     "items": [
       {
-        "title": "Very long name of some theme as example",
+        "title": {
+          "link": "#",
+          "value": "Very long name of some theme as example"
+        },
         "items": [
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink"
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          }
         ]
       },
       {
-        "title": "Very long name of some theme as example",
+        "title": {
+          "link": "#",
+          "value": "Very long name of some theme as example"
+        },
         "items": [
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink"
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          }
         ]
       },
       {
-        "title": "Very long name of some theme as example",
+        "title": {
+          "link": "#",
+          "value": "Very long name of some theme as example"
+        },
         "items": [
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink"
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          }
         ]
       },
       {
-        "title": "Very long name of some theme as example",
+        "title": {
+          "link": "#",
+          "value": "Very long name of some theme as example"
+        },
         "items": [
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink"
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          }
         ]
       },
       {
-        "title": "Very long name of some theme as example",
+        "title": {
+          "link": "#",
+          "value": "Very long name of some theme as example"
+        },
         "items": [
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink"
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          }
         ]
       },
       {
-        "title": "Very long name of some theme as example",
+        "title": {
+          "link": "#",
+          "value": "Very long name of some theme as example"
+        },
         "items": [
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink"
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          }
         ]
       },
       {
-        "title": "Very long name of some theme as example",
+        "title": {
+          "link": "#",
+          "value": "Very long name of some theme as example"
+        },
         "items": [
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink"
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          }
         ]
       },
       {
-        "title": "Very long name of some theme as example",
+        "title": {
+          "link": "#",
+          "value": "Very long name of some theme as example"
+        },
         "items": [
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink",
-          "Another one sublink"
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          },
+          {
+            "link": "#",
+            "value": "Another one sublink"
+          }
         ]
       }
     ]
