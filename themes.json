@@ -4,7 +4,7 @@
     "items": [
       {
         "title": {
-          "link": "#",
+          "link": "#text1",
           "value": "Very long name of some theme as example"
         },
         "items": [
