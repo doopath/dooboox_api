@@ -12,17 +12,23 @@
           {
             "name": "link",
             "value": "image",
-            "link": "#"
+            "link": "#",
+            "id": 1,
+            "refresh": true
           },
           {
             "name": "link",
             "value": "themes",
-            "link": "#"
+            "link": "#",
+            "id": 2,
+            "refresh": true
           },
           {
             "name": "link",
             "value": "text",
-            "link": "#"
+            "link": "#",
+            "id": 3,
+            "refresh": true
           }
         ]
       },
