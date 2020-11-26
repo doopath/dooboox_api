@@ -2,32 +2,32 @@
   {
     "name": "Page next door",
     "id": 2,
-    "next": true,
+    "next": false,
     "components": [
       {
         "name": "title",
-        "value": "Page next door"
+        "value": "Page next (double) door"
       },
       {
         "name": "links",
         "items": [
           {
             "name": "link",
-            "value": "Let's",
+            "value": "No",
             "link": "#",
             "id": 1,
             "refresh": true
           },
           {
             "name": "link",
-            "value": "get",
+            "value": "way",
             "link": "#",
             "id": 2,
             "refresh": true
           },
           {
             "name": "link",
-            "value": "socialism",
+            "value": "to build it",
             "link": "#",
             "id": 3,
             "refresh": true
