@@ -98,26 +98,20 @@
       },
       {
         "name": "codeBox",
-        "items": [
-          {
-            "name": "codeLines",
-            "items": [
-              "// Example comment",
-              "const sayHello = (name) => {",
-              "    console.log(`Hello maboy ${name}`);",
-              "}",
-              "",
-              "const name = 'Doopath';",
-              "sayHello(name);"
-            ]
-          },
-          {
-            "name": "result",
-            "items": [
-              "Hello maboy Doopath"
-            ]
-          }
-        ]
+        "items": {
+          "codeLines": [
+            "// Example comment",
+            "const sayHello = (name) => {",
+            "    console.log(`Hello maboy ${name}`);",
+            "}",
+            "",
+            "const name = 'Doopath';",
+            "sayHello(name);"
+          ],
+          "resultLines": [
+            "Hello maboy Doopath"
+          ]
+        }
       }
     ]
   }
