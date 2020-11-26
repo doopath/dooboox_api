@@ -1,6 +1,8 @@
 [
   {
     "name": "guestPage",
+    "id": 1,
+    "next": true,
     "components": [
       {
         "name": "title",
