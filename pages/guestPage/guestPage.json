@@ -1,0 +1,138 @@
+[
+  {
+    "name": "guestPage",
+    "components": [
+      {
+        "name": "title",
+        "value": "Guest page"
+      },
+      {
+        "name": "links",
+        "items": [
+          {
+            "name": "link",
+            "value": "image",
+            "link": "#"
+          },
+          {
+            "name": "link",
+            "value": "themes",
+            "link": "#"
+          },
+          {
+            "name": "link",
+            "value": "text",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "name": "imageBlock",
+        "items": [
+          {
+            "name": "image",
+            "source": "https://sha1om.github.io/dooboox_api/pages/guestPage/guestPage_image_1.jpeg"
+          },
+          {
+            "name": "sublinksBlock",
+            "items": [
+              {
+                "name": "sublink",
+                "value": "sublink 1",
+                "link": "#"
+              },
+              {
+                "name": "sublink",
+                "value": "sublink 1",
+                "link": "#"
+              },
+              {
+                "name": "sublink",
+                "value": "sublink 1",
+                "link": "#"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "text",
+        "id": "text1",
+        "source": "https://sha1om.github.io/dooboox_api/pages/guestPage/guestPage_text_1.txt"
+      },
+      {
+        "name": "text",
+        "id": "text1",
+        "source": "https://sha1om.github.io/dooboox_api/pages/guestPage/guestPage_text_1.txt"
+      },
+      {
+        "name": "codeBox",
+        "items": [
+          {
+            "name": "codeLines",
+            "items": [
+              "// Example comment",
+              "const sayHello = (name) => {",
+              "    console.log(`Hello maboy ${name}`);",
+              "}",
+              "",
+              "const name = 'Doopath';",
+              "sayHello(name);"
+            ]
+          },
+          {
+            "name": "result",
+            "items": [
+              "Hello maboy Doopath"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "text",
+        "id": "text1",
+        "source": "https://sha1om.github.io/dooboox_api/pages/guestPage/guestPage_text_2.txt"
+      },
+      {
+        "name": "text",
+        "id": "text1",
+        "source": "https://sha1om.github.io/dooboox_api/pages/guestPage/guestPage_text_2.txt"
+      },
+      {
+        "name": "codeBox",
+        "items": [
+          {
+            "name": "codeLines",
+            "items": [
+              "// Example comment",
+              "const sayHello = (name) => {",
+              "    console.log(`Hello maboy ${name}`);",
+              "}",
+              "",
+              "const name = 'Doopath';",
+              "sayHello(name);"
+            ]
+          },
+          {
+            "name": "result",
+            "items": [
+              "Hello maboy Doopath"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
