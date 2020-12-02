@@ -1,7 +1,9 @@
 [
   {
     "name": "authors",
-    "items": [
+    "id": "authors",
+    "next": false,
+    "components": [
       {
         "name": "title",
         "value": "Authors of the project"
