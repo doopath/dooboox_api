@@ -76,11 +76,11 @@
         "items": {
           "codeLines": [
             "// Example comment",
-            "const sayHello = (name) => {",
+            "const sayHello = (name: string): void => {",
             "    console.log(`Hello maboy ${name}`);",
             "}",
             "",
-            "const name = 'Doopath';",
+            "const name: string = 'Doopath';",
             "sayHello(name);"
           ],
           "resultLines": [
@@ -103,11 +103,11 @@
         "items": {
           "codeLines": [
             "// Example comment",
-            "const sayHello = (name) => {",
+            "const sayHello = (name: string): void => {",
             "    console.log(`Hello maboy ${name}`);",
             "}",
             "",
-            "const name = 'Doopath';",
+            "const name: string = 'Doopath';",
             "sayHello(name);"
           ],
           "resultLines": [
