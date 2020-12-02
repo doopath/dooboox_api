@@ -1,7 +1,7 @@
 [
   {
     "name": "themes",
-    "id": 100,
+    "id": "themes",
     "next": false,
     "components": [
       {
