@@ -1,20 +1,13 @@
 [
   {
     "name": "author",
-    "id": 2,
-    "items": [
+    "id": "authorRedactor",
+    "next": false,
+    "components": [
       {
-        "name": "authorName",
-        "value": "Lorenzo Strozzi"
-      },
-      {
-        "name": "authorRole",
-        "icon": "faUserEdit",
-        "value": "main editor"
-      },
-      {
-        "name": "authorWork",
-        "value": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit id nisi, accusamus, ut quibusdam ex eaque maiores sit totam nesciunt quod natus magni quos, impedit est magnam labore illum alias eos dolorem. Quaerat dolorem dignissimos ratione quibusdam consectetur!\n\n Ullam maiores aliquam omnis culpa reiciendis nostrum, quasi quae praesentium doloribus quia et porro placeat fuga possimus debitis illum esse consectetur eos! Odio temporibus dignissimos minus sapiente rerum provident sed pariatur quod esse illo officia, ratione tempore cumque corporis! Aut accusamus molestias nobis, corporis pariatur facilis recusandae possimus necessitatibus sit expedita animi doloremque. Minima voluptatum delectus odio culpa ipsum molestiae et dolor!"
+        "name": "authorBlock",
+        "id": 2,
+        "source": "https://sha1om.github.io/dooboox_api/pages/authorsPage/author-2/author.json"
       }
     ]
   }
