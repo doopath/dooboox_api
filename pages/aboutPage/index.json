@@ -1,0 +1,20 @@
+[
+  {
+    "name": "about",
+    "id": "aboutPage",
+    "next": false,
+    "components": [
+      {
+        "name": "title",
+        "value": "Ouch... Now there is no content, instead about info take this image:"
+      },
+      {
+        "name": "imageBlock",
+        "items": {
+          "id": "nonePage",
+          "image": "https://sha1om.github.io/dooboox_api/images/nonePage.png"
+        }
+      }
+    ]
+  }
+]
