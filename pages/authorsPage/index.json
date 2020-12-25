@@ -11,17 +11,17 @@
       {
         "name": "authorBlock",
         "id": 1,
-        "source": "https://sha1om.github.io/dooboox_api/pages/authorsPage/author-1/author.json"
+        "source": "https://doopath.github.io/dooboox_api/pages/authorsPage/author-1/author.json"
       },
       {
         "name": "authorBlock",
         "id": 2,
-        "source": "https://sha1om.github.io/dooboox_api/pages/authorsPage/author-2/author.json"
+        "source": "https://doopath.github.io/dooboox_api/pages/authorsPage/author-2/author.json"
       },
       {
         "name": "authorBlock",
         "id": 3,
-        "source": "https://sha1om.github.io/dooboox_api/pages/authorsPage/author-3/author.json"
+        "source": "https://doopath.github.io/dooboox_api/pages/authorsPage/author-3/author.json"
       }
     ]
   }
