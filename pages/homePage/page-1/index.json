@@ -1,7 +1,7 @@
 [
   {
     "name": "guestPage",
-    "id": "1_Home",
+    "id": "1_HomePage",
     "next": true,
     "components": [
       {
