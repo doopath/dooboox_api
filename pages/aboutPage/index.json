@@ -1,7 +1,7 @@
 [
   {
     "name": "about",
-    "id": "aboutPage",
+    "id": "about",
     "next": false,
     "components": [
       {
