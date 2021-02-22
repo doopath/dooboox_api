@@ -1,7 +1,7 @@
 [
   {
     "name": "authors",
-    "id": "authors",
+    "id": "authorsPage",
     "next": false,
     "components": [
       {
