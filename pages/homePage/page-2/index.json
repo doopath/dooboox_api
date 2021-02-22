@@ -1,7 +1,7 @@
 [
   {
     "name": "Page next door",
-    "id": 2,
+    "id": "2_Home",
     "next": true,
     "components": [
       {
