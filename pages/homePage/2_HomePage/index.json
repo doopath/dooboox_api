@@ -1,33 +1,33 @@
 [
   {
     "name": "Page next door",
-    "id": "3_Home",
-    "next": false,
+    "id": "2_HomePage",
+    "next": true,
     "components": [
       {
         "name": "title",
-        "value": "Page next (double) door"
+        "value": "Page next door"
       },
       {
         "name": "links",
         "items": [
           {
             "name": "link",
-            "value": "No",
+            "value": "Let's",
             "link": "#",
             "id": 1,
             "refresh": true
           },
           {
             "name": "link",
-            "value": "way",
+            "value": "get",
             "link": "#",
             "id": 2,
             "refresh": true
           },
           {
             "name": "link",
-            "value": "to build it",
+            "value": "socialism",
             "link": "#",
             "id": 3,
             "refresh": true
