@@ -1,119 +1,37 @@
 [
   {
-    "name": "Page next door",
+    "name": "HomePage",
     "id": "2_HomePage",
     "next": true,
     "components": [
       {
         "name": "title",
-        "value": "Page next door"
-      },
-      {
-        "name": "links",
-        "items": [
-          {
-            "name": "link",
-            "value": "Let's",
-            "link": "#",
-            "id": 1,
-            "refresh": true
-          },
-          {
-            "name": "link",
-            "value": "get",
-            "link": "#",
-            "id": 2,
-            "refresh": true
-          },
-          {
-            "name": "link",
-            "value": "socialism",
-            "link": "#",
-            "id": 3,
-            "refresh": true
-          }
-        ]
-      },
-      {
-        "name": "imageBlock",
-        "items": {
-          "id": "image1",
-          "image": "https://doopath.github.io/dooboox_api/pages/homePage/2_HomePage/fish.jpeg",
-          "sublinks": [
-              {
-                "name": "sublink",
-                "value": "sublink 3",
-                "id": 1,
-                "link": "#"
-              },
-              {
-                "name": "sublink",
-                "value": "sublink 4",
-                "id": 2,
-                "link": "#"
-              },
-              {
-                "name": "sublink",
-                "value": "sublink 5",
-                "id": 3,
-                "link": "#"
-              }
-            ]
-        }
+        "value": "Асимметричное шифрование"
       },
       {
         "name": "text",
-        "id": "text1",
-        "source": "https://doopath.github.io/dooboox_api/pages/homePage/2_HomePage/guestPage_text_1.txt"
+        "id": "text5",
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/2_HomePage/asymmetric_encrypting.txt"
+      },
+
+      {
+        "name": "title",
+        "value": "Применение асимметричных алгоритмов"
       },
       {
         "name": "text",
-        "id": "text1",
-        "source": "https://doopath.github.io/dooboox_api/pages/homePage/2_HomePage/guestPage_text_1.txt"
+        "id": "text6",
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/2_HomePage/the_use_of_asymmetric_algorithms.txt"
       },
+
       {
-        "name": "codeBox",
-        "items": {
-          "codeLines": [
-            "// Example comment",
-            "const sayHello = (name: string): void => {",
-            "    console.log(`Hello maboy ${name}`);",
-            "}",
-            "",
-            "const name: string = 'Doopath';",
-            "sayHello(name);"
-          ],
-          "resultLines": [
-            "Hello maboy Doopath"
-          ]
-        }
+        "name": "title",
+        "value": "Надежность асимметричного шифрования"
       },
       {
         "name": "text",
-        "id": "text1",
-        "source": "https://doopath.github.io/dooboox_api/pages/homePage/2_HomePage/guestPage_text_2.txt"
-      },
-      {
-        "name": "text",
-        "id": "text1",
-        "source": "https://doopath.github.io/dooboox_api/pages/homePage/2_HomePage/guestPage_text_2.txt"
-      },
-      {
-        "name": "codeBox",
-        "items": {
-          "codeLines": [
-            "// Example comment",
-            "const sayHello = (name: string): void => {",
-            "    console.log(`Hello maboy ${name}`);",
-            "}",
-            "",
-            "const name: string = 'Doopath';",
-            "sayHello(name);"
-          ],
-          "resultLines": [
-            "Hello maboy Doopath"
-          ]
-        }
+        "id": "text6",
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/2_HomePage/security_of_asymmetric_encrypting.txt"
       }
     ]
   }

@@ -38,12 +38,12 @@
 
       {
         "name": "title",
-        "value": "Синхронное шифрование"
+        "value": "Симметричное шифрование"
       },
       {
         "name": "text",
         "id": "text4",
-        "source": "https://doopath.github.io/dooboox_api/pages/homePage/1_HomePage/synchronous_encrypting.txt"
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/1_HomePage/symmetric_encrypting.txt"
       }
     ]
   }
