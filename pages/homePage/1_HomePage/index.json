@@ -12,24 +12,6 @@
         "name": "text",
         "id": "text1",
         "source": "https://doopath.github.io/dooboox_api/pages/homePage/1_HomePage/what_is_criptographi.txt"
-      },
-      {
-        "name": "title",
-        "value": "История криптографии"
-      },
-      {
-        "name": "text",
-        "id": "text1",
-        "source": "https://doopath.github.io/dooboox_api/pages/homePage/1_HomePage/history_of_criptographi.txt"
-      },
-      {
-        "name": "title",
-        "value": "Шифрование"
-      },
-      {
-        "name": "text",
-        "id": "text1",
-        "source": "https://doopath.github.io/dooboox_api/pages/homePage/1_HomePage/what_is_encrypting.txt"
       }
     ]
   }
