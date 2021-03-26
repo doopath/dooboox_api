@@ -1,120 +1,36 @@
 [
   {
-    "name": "guestPage",
+    "name": "HomePage",
     "id": "1_HomePage",
     "next": true,
     "components": [
       {
         "name": "title",
-        "value": "Guest page"
-      },
-      {
-        "name": "links",
-        "items": [
-          {
-            "name": "link",
-            "value": "image",
-            "link": "#",
-            "id": 1,
-            "refresh": true
-          },
-          {
-            "name": "link",
-            "value": "themes",
-            "link": "#",
-            "id": 2,
-            "refresh": true
-          },
-          {
-            "name": "link",
-            "value": "text",
-            "link": "#",
-            "id": 3,
-            "refresh": true
-          }
-        ]
-      },
-      {
-        "name": "imageBlock",
-        "items": {
-          "id": "image1",
-          "image": "https://doopath.github.io/dooboox_api/pages/homePage/1_HomePage/fish.jpeg",
-          "sublinks": [
-              {
-                "name": "sublink",
-                "value": "sublink 1",
-                "id": 1,
-                "link": "#"
-              },
-              {
-                "name": "sublink",
-                "value": "sublink 1",
-                "id": 2,
-                "link": "#"
-              },
-              {
-                "name": "sublink",
-                "value": "sublink 1",
-                "id": 3,
-                "link": "#"
-              }
-            ]
-        }
+        "value": "Криптография"
       },
       {
         "name": "text",
         "id": "text1",
-        "source": "https://doopath.github.io/dooboox_api/pages/homePage/1_HomePage/guestPage_text_1.txt"
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/1_HomePage/what_is_criptographi.txt"
+      },
+      {
+        "name": "title",
+        "value": "История криптографии"
       },
       {
         "name": "text",
         "id": "text1",
-        "source": "https://doopath.github.io/dooboox_api/pages/homePage/1_HomePage/guestPage_text_1.txt"
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/1_HomePage/history_of_criptographi.txt"
       },
       {
-        "name": "codeBox",
-        "items": {
-          "codeLines": [
-            "// Example comment",
-            "const sayHello = (name: string): void => {",
-            "    console.log(`Hello maboy ${name}`);",
-            "}",
-            "",
-            "const name: string = 'Doopath';",
-            "sayHello(name);"
-          ],
-          "resultLines": [
-            "Hello maboy Doopath"
-          ]
-        }
+        "name": "title",
+        "value": "Шифрование"
       },
       {
         "name": "text",
         "id": "text1",
-        "source": "https://doopath.github.io/dooboox_api/pages/homePage/1_HomePage/guestPage_text_2.txt"
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/1_HomePage/what_is_encrypting.txt"
       },
-      {
-        "name": "text",
-        "id": "text1",
-        "source": "https://doopath.github.io/dooboox_api/pages/homePage/1_HomePage/guestPage_text_2.txt"
-      },
-      {
-        "name": "codeBox",
-        "items": {
-          "codeLines": [
-            "// Example comment",
-            "const sayHello = (name: string): void => {",
-            "    console.log(`Hello maboy ${name}`);",
-            "}",
-            "",
-            "const name: string = 'Doopath';",
-            "sayHello(name);"
-          ],
-          "resultLines": [
-            "Hello maboy Doopath"
-          ]
-        }
-      }
     ]
   }
 ]
