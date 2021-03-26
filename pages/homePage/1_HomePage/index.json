@@ -30,6 +30,15 @@
         "name": "text",
         "id": "text3",
         "source": "https://doopath.github.io/dooboox_api/pages/homePage/1_HomePage/what_is_encrypting.txt"
+      },
+      {
+        "name": "title",
+        "value": "Синхронное шифрование"
+      },
+      {
+        "name": "text",
+        "id": "text4",
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/1_HomePage/synchronous_encrypting.txt"
       }
     ]
   }
