@@ -1,62 +1,30 @@
 [
   {
-    "name": "Page next door",
+    "name": "HomePage",
     "id": "3_HomePage",
     "next": false,
     "components": [
       {
         "name": "title",
-        "value": "Page next (double) door"
-      },
-      {
-        "name": "links",
-        "items": [
-          {
-            "name": "link",
-            "value": "No",
-            "link": "#",
-            "id": 1,
-            "refresh": true
-          },
-          {
-            "name": "link",
-            "value": "way",
-            "link": "#",
-            "id": 2,
-            "refresh": true
-          },
-          {
-            "name": "link",
-            "value": "to build it",
-            "link": "#",
-            "id": 3,
-            "refresh": true
-          }
-        ]
+        "value": " Схема шифрования с открытым ключом"
       },
       {
         "name": "imageBlock",
         "items": {
           "id": "image1",
-          "image": "https://doopath.github.io/dooboox_api/pages/homePage/3_HomePage/fish.jpeg",
+          "image": "https://doopath.github.io/dooboox_api/pages/homePage/3_HomePage/open_key_encrypting_template.png",
           "sublinks": [
               {
                 "name": "sublink",
-                "value": "sublink 3",
+                "value": "источник",
                 "id": 1,
-                "link": "#"
+                "link": "https://upload.wikimedia.org/wikipedia/ru/c/ce/%D0%90%D1%81%D0%B8%D0%BC%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.png"
               },
               {
                 "name": "sublink",
-                "value": "sublink 4",
+                "value": "статья на wiki",
                 "id": 2,
-                "link": "#"
-              },
-              {
-                "name": "sublink",
-                "value": "sublink 5",
-                "id": 3,
-                "link": "#"
+                "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%81_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%BC_%D0%BA%D0%BB%D1%8E%D1%87%D0%BE%D0%BC"
               }
             ]
         }
@@ -64,56 +32,7 @@
       {
         "name": "text",
         "id": "text8",
-        "source": "https://doopath.github.io/dooboox_api/pages/homePage/2_HomePage/symmetric_encrypting.txt"
-      },
-      {
-        "name": "text",
-        "id": "text9",
-        "source": "https://doopath.github.io/dooboox_api/pages/homePage/3_HomePage/guestPage_text_1.txt"
-      },
-      {
-        "name": "codeBox",
-        "items": {
-          "codeLines": [
-            "// Example comment",
-            "const sayHello = (name: string): void => {",
-            "    console.log(`Hello maboy ${name}`);",
-            "}",
-            "",
-            "const name: string = 'Doopath';",
-            "sayHello(name);"
-          ],
-          "resultLines": [
-            "Hello maboy Doopath"
-          ]
-        }
-      },
-      {
-        "name": "text",
-        "id": "text10",
-        "source": "https://doopath.github.io/dooboox_api/pages/homePage/3_HomePage/guestPage_text_2.txt"
-      },
-      {
-        "name": "text",
-        "id": "text11",
-        "source": "https://doopath.github.io/dooboox_api/pages/homePage/3_HomePage/guestPage_text_2.txt"
-      },
-      {
-        "name": "codeBox",
-        "items": {
-          "codeLines": [
-            "// Example comment",
-            "const sayHello = (name: string): void => {",
-            "    console.log(`Hello maboy ${name}`);",
-            "}",
-            "",
-            "const name: string = 'Doopath';",
-            "sayHello(name);"
-          ],
-          "resultLines": [
-            "Hello maboy Doopath"
-          ]
-        }
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/3_HomePage/open_key_encrypting_template.txt"
       }
     ]
   }
