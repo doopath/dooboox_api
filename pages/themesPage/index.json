@@ -6,7 +6,7 @@
     "components": [
       {
         "name": "title",
-        "value": "Themes"
+        "value": "Оглавление"
       },
       {
         "name": "themes",
@@ -16,24 +16,12 @@
             "items": {
               "title": {
                 "link": "#text1",
-                "value": "Very long name of some theme as example"
+                "value": "Криптография"
               },
               "items": [
                 {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
+                  "link": "#text2",
+                  "value": "История криптографии"
                 }
               ]
             }
@@ -42,25 +30,25 @@
             "name": "themesBlock",
             "items": {
               "title": {
-                "link": "#text1",
-                "value": "Very long name of some theme as example"
+                "link": "#text3",
+                "value": "Шифрование"
               },
               "items": [
                 {
-                  "link": "#",
-                  "value": "Another one sublink"
+                  "link": "#text4",
+                  "value": "Симметричное шифрование"
                 },
                 {
-                  "link": "#",
-                  "value": "Another one sublink"
+                  "link": "#text5",
+                  "value": "Асимметричное шифрование"
                 },
                 {
-                  "link": "#",
-                  "value": "Another one sublink"
+                  "link": "#text6",
+                  "value": "Применение асинхронных алгоритмов"
                 },
                 {
-                  "link": "#",
-                  "value": "Another one sublink"
+                  "link": "#text7",
+                  "value": "Надежность асимметричных алгоритмов"
                 }
               ]
             }
@@ -69,160 +57,29 @@
             "name": "themesBlock",
             "items": {
               "title": {
-                "link": "#text1",
-                "value": "Very long name of some theme as example"
+                "link": "#text8",
+                "value": "Шифрования с открытым ключом"
               },
               "items": [
                 {
-                  "link": "#",
-                  "value": "Another one sublink"
+                  "link": "#text9",
+                  "value": "История алгоритма RSA"
                 },
                 {
-                  "link": "#",
-                  "value": "Another one sublink"
+                  "link": "#text10",
+                  "value": "Описание алгоритма RSA"
                 },
                 {
-                  "link": "#",
-                  "value": "Another one sublink"
+                  "link": "#text11",
+                  "value": "Генерация секретного и публичного ключа"
                 },
                 {
-                  "link": "#",
-                  "value": "Another one sublink"
-                }
-              ]
-            }
-          },
-          {
-            "name": "themesBlock",
-            "items": {
-              "title": {
-                "link": "#text1",
-                "value": "Very long name of some theme as example"
-              },
-              "items": [
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
+                  "link": "#text12",
+                  "value": "Шифрование и расшифрование"
                 },
                 {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                }
-              ]
-            }
-          },
-          {
-            "name": "themesBlock",
-            "items": {
-              "title": {
-                "link": "#text1",
-                "value": "Very long name of some theme as example"
-              },
-              "items": [
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                }
-              ]
-            }
-          },
-          {
-            "name": "themesBlock",
-            "items": {
-              "title": {
-                "link": "#text1",
-                "value": "Very long name of some theme as example"
-              },
-              "items": [
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                }
-              ]
-            }
-          },
-          {
-            "name": "themesBlock",
-            "items": {
-              "title": {
-                "link": "#text1",
-                "value": "Very long name of some theme as example"
-              },
-              "items": [
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                }
-              ]
-            }
-          },
-          {
-            "name": "themesBlock",
-            "items": {
-              "title": {
-                "link": "#text1",
-                "value": "Very long name of some theme as example"
-              },
-              "items": [
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
-                },
-                {
-                  "link": "#",
-                  "value": "Another one sublink"
+                  "link": "#text13",
+                  "value": "Трудности в реализации надежного шифрования"
                 }
               ]
             }
