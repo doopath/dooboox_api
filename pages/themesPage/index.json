@@ -15,12 +15,12 @@
             "name": "themesBlock",
             "items": {
               "title": {
-                "link": "#text1",
+                "link": "/dooboox/#text1",
                 "value": "Криптография"
               },
               "items": [
                 {
-                  "link": "#text2",
+                  "link": "/dooboox/#text2",
                   "value": "История криптографии"
                 }
               ]
@@ -30,24 +30,24 @@
             "name": "themesBlock",
             "items": {
               "title": {
-                "link": "#text3",
+                "link": "/dooboox/#text3",
                 "value": "Шифрование"
               },
               "items": [
                 {
-                  "link": "#text4",
+                  "link": "/dooboox/#text4",
                   "value": "Симметричное шифрование"
                 },
                 {
-                  "link": "#text5",
+                  "link": "/dooboox/#text5",
                   "value": "Асимметричное шифрование"
                 },
                 {
-                  "link": "#text6",
+                  "link": "/dooboox/#text6",
                   "value": "Применение асинхронных алгоритмов"
                 },
                 {
-                  "link": "#text7",
+                  "link": "/dooboox/#text7",
                   "value": "Надежность асимметричных алгоритмов"
                 }
               ]
@@ -57,28 +57,28 @@
             "name": "themesBlock",
             "items": {
               "title": {
-                "link": "#text8",
+                "link": "/dooboox/#text8",
                 "value": "Шифрования с открытым ключом"
               },
               "items": [
                 {
-                  "link": "#text9",
+                  "link": "/dooboox/#text9",
                   "value": "История алгоритма RSA"
                 },
                 {
-                  "link": "#text10",
+                  "link": "/dooboox/#text10",
                   "value": "Описание алгоритма RSA"
                 },
                 {
-                  "link": "#text11",
+                  "link": "/dooboox/#text11",
                   "value": "Генерация секретного и публичного ключа"
                 },
                 {
-                  "link": "#text12",
+                  "link": "/dooboox/#text12",
                   "value": "Шифрование и расшифрование"
                 },
                 {
-                  "link": "#text13",
+                  "link": "/dooboox/#text13",
                   "value": "Трудности в реализации надежного шифрования"
                 }
               ]
