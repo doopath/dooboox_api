@@ -39,6 +39,55 @@
         "name": "text",
         "id": "text8",
         "source": "https://doopath.github.io/dooboox_api/pages/homePage/3_HomePage/open_key_encrypting_template.txt"
+      },
+
+
+      {
+        "name": "title",
+        "value": "Асимметричный алгоритм шифрования RSA"
+      },
+      {
+        "name": "text",
+        "id": "text9",
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/3_HomePage/history_of_rsa.txt"
+      },
+      {
+        "name": "text",
+        "id": "text10",
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/3_HomePage/description_of_rsa.txt"
+      },
+
+
+      {
+        "name": "title",
+        "value": "Генерация секретного и публичного ключа"
+      },
+      {
+        "name": "text",
+        "id": "text11",
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/3_HomePage/secret_and_public_key_generation.txt"
+      },
+
+
+      {
+        "name": "title",
+        "value": "Шифрование и расшифрование"
+      },
+      {
+        "name": "text",
+        "id": "text12",
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/3_HomePage/encrypting_and_decrypting.txt"
+      },
+
+
+      {
+        "name": "title",
+        "value": "Трудности в реализации надежного шифрования"
+      },
+      {
+        "name": "text",
+        "id": "text13",
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/3_HomePage/troubles_with_security_encrypting_realisation.txt"
       }
     ]
   }
