@@ -6,7 +6,7 @@
     "components": [
       {
         "name": "title",
-        "value": "Authors of the project"
+        "value": "Авторы проекта"
       },
       {
         "name": "authorBlock",

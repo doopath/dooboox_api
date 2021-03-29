@@ -5,7 +5,7 @@
     "items": [
       {
         "name": "authorName",
-        "value": "Niccolo di Bernardo dei Machiavelli"
+        "value": "Никишов Михаил Михайлович"
       },
       {
         "name": "authorRole",
@@ -14,7 +14,7 @@
       },
       {
         "name": "authorWork",
-        "value": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit id nisi, accusamus, ut quibusdam ex eaque maiores sit totam nesciunt quod natus magni quos, impedit est magnam labore illum alias eos dolorem. Quaerat dolorem dignissimos ratione quibusdam consectetur!\n\n Ullam maiores aliquam omnis culpa reiciendis nostrum, quasi quae praesentium doloribus quia et porro placeat fuga possimus debitis illum esse consectetur eos! Odio temporibus dignissimos minus sapiente rerum provident sed pariatur quod esse illo officia, ratione tempore cumque corporis! Aut accusamus molestias nobis, corporis pariatur facilis recusandae possimus necessitatibus sit expedita animi doloremque. Minima voluptatum delectus odio culpa ipsum molestiae et dolor!"
+        "value": "Было разработано и заполнено содержанием веб-приложение. Также, подготовлена часть теоретического материала: глава про асимметричный алгоритм шифрования RSA, его история, реализация, применение и проблемы, связанные с безопасностью. На момент написания этого текста планируется защита проекта."
       }
     ]
   }
