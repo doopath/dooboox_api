@@ -34,6 +34,39 @@
         "name": "text",
         "id": "text7",
         "source": "https://doopath.github.io/dooboox_api/pages/homePage/2_HomePage/security_of_asymmetric_encrypting.txt"
+      },
+
+
+      {
+        "name": "title",
+        "value": "Использование шифрования криптовалютами"
+      },
+      {
+        "name": "text",
+        "id": "text14",
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/2_HomePage/using_encrypting_by_cryptocurrency.txt"
+      },
+
+
+      {
+        "name": "title",
+        "value": "Гибридные системы шифрования"
+      },
+      {
+        "name": "text",
+        "id": "text15",
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/2_HomePage/hybrid_encrypting_systems.txt"
+      },
+
+
+      {
+        "name": "title",
+        "value": "Хеширование"
+      },
+      {
+        "name": "text",
+        "id": "text16",
+        "source": "https://doopath.github.io/dooboox_api/pages/homePage/2_HomePage/hashing.txt"
       }
     ]
   }
